@@ -50,7 +50,7 @@ class WindowCapture:
         win32gui.ReleaseDC(self.height_window, wDC)
         win32gui.DeleteObject(dataBitMap.GetHandle())
 
-        # This Caused the matchTemplate to fail
+        # This causes the matchTemplate opencv function to fail
         # img = img[...,:3]
 
         img = np.ascontiguousarray(img)
