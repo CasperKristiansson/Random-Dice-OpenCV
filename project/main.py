@@ -3,6 +3,7 @@ import datetime
 
 from library.window_capture import WindowCapture
 from library.vision import Vision
+from library.game import Game
 import tests.detection_tests as detection_tests
 
 
@@ -29,12 +30,14 @@ def run_detection_tests():
 
 def run():
     wincap = WindowCapture('BlueStacks App Player')
-    vision = Vision('assets\Menu\PVP Button.png')
     time_start = datetime.datetime.now()
+    game = Game(strategy='assassin')
 
     while True:
         screenshot = wincap.get_screenshot()
-        points = vision.find(screenshot, 0.5, 'points')
+        
+        screenshot = game.process_frame(screenshot)
+        cv.imshow('Computer Vision', screenshot)
 
         time_end = datetime.datetime.now()
         time_delta = time_end - time_start
