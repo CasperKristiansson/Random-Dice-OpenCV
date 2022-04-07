@@ -1,6 +1,12 @@
 from library.vision import Vision
 
 
+def get_empty():
+    return [
+        Vision('assets\Dices\Empty\Green Empty.png')
+    ]
+
+
 def get_assassin_dice():
     return [
         Vision('assets/Dices/Assassin/Assassin Level 1.png'),
@@ -23,7 +29,7 @@ def get_joker_dice():
 
 
 def get_summoner_dice():
-        return [
+    return [
         Vision('assets\Dices\Summoner\Summoner Level 1.png'),
         Vision('assets\Dices\Summoner\Summoner Level 2.png'),
         Vision('assets\Dices\Summoner\Summoner Level 3.png'),
