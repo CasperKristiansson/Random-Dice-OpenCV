@@ -34,7 +34,7 @@ def run():
     while True:
         screenshot = wincap.get_screenshot()
         
-        # screenshot = game.process_frame(screenshot)
+        screenshot = game.process_frame(screenshot)
         cv.imshow('Computer Vision', screenshot)
 
         current_time = library.util.fps_compute(current_time)
