@@ -17,7 +17,7 @@ class Game:
         self.dice_four = dices.get_mimic_dice()        
 
     def process_frame(self, image):
-        squares = image_computations.process_dice_board(image)
-        print(len(squares))
+        squares, squares_coordinates = image_computations.process_dice_board(image)
+        
 
-        return squares[9]
+        return image
