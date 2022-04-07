@@ -1,6 +1,7 @@
 import cv2 as cv
 
 import library.dices as dices
+import library.image_computations as image_computations
 
 class Game:
     def __init__(self, strategy='assassin'):
@@ -16,4 +17,7 @@ class Game:
         self.dice_four = dices.get_mimic_dice()        
 
     def process_frame(self, image):
-        cropped_frame = image[int(image.shape[0]/2):int(image.shape[0] * 0.75)]
+        squares, squares_coordinates = image_computations.process_dice_board(image)
+        
+
+        return image
