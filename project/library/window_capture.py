@@ -50,12 +50,15 @@ class WindowCapture:
         win32gui.ReleaseDC(self.height_window, wDC)
         win32gui.DeleteObject(dataBitMap.GetHandle())
 
-        img = img[...,:3]
+        # This Caused the matchTemplate to fail
+        # img = img[...,:3]
+
         img = np.ascontiguousarray(img)
 
         return img
 
-    def list_window_names(self):
+    @staticmethod
+    def list_window_names():
         def winEnumHandler(height_window, ctx):
             if win32gui.IsWindowVisible(height_window):
                 print(hex(height_window), win32gui.GetWindowText(height_window))
