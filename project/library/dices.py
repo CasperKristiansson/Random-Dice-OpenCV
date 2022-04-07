@@ -1,4 +1,4 @@
-from vision import Vision
+from library.vision import Vision
 
 
 def get_assassin_dice():

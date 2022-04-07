@@ -1,7 +1,6 @@
 import cv2 as cv
 
-from vision import Vision
-import dices
+import library.dices as dices
 
 class Game:
     def __init__(self, strategy='assassin'):
@@ -15,3 +14,6 @@ class Game:
         self.dice_two = dices.get_joker_dice()
         self.dice_three = dices.get_summoner_dice()
         self.dice_four = dices.get_mimic_dice()        
+
+    def process_frame(self, image):
+        cropped_frame = image[int(image.shape[0]/2):int(image.shape[0] * 0.75)]
