@@ -43,6 +43,8 @@ class Game:
         squares, squares_coordinates = image_computations.process_dice_board(image)
         self.board = image_computations.process_board(squares, self.dices)
 
-        # print(self.board)
+        # self.balance, self.dice_cost = image_computations.process_balance(image)
+
+        print(self.board)
 
         return image

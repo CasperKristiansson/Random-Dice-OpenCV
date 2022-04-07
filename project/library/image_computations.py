@@ -70,3 +70,13 @@ def process_board(squares, dices):
                 board[row][column] = dices_index[index]
     
     return board
+
+def process_balance(image):
+    width, height, _ = image.shape
+
+    balance_image = image[
+        int(width * 0.83):int(width * 0.86),
+        int(height * 0.17):int(height * 0.32)
+    ]
+
+    return None, balance_image
