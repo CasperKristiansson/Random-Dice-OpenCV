@@ -6,17 +6,31 @@ class Vision:
     """
     https://github.com/learncodebygaming/opencv_tutorials/blob/master/005_real_time/vision.py
     """
-    img = None
+    image = None
     width = 0
     height = 0
     method = None
 
-    def __init__(self, img_path, method=cv.TM_CCOEFF_NORMED):
-        self.img = cv.imread(img_path, cv.IMREAD_UNCHANGED)
+    def __init__(self, image_path, method=cv.TM_CCOEFF_NORMED):
+        self.image = cv.imread(image_path, cv.IMREAD_UNCHANGED)
+        self.image = cv.resize(self.image, (0, 0), fx=0.75, fy=0.75)
 
-        self.width = self.img.shape[1]
-        self.height = self.img.shape[0]
+        self.width = self.image.shape[1]
+        self.height = self.image.shape[0]
         self.method = method
+    
+    def confidence(self, compare_image):
+        # In order to compare the images the 'compare_image'
+        # needs to be bigger or equal than the 'self.image'.
+        # A solution to this would be to update the compare_image
+        # to the same size as the 'self.image' but this is a
+        # solution that slows down the program from 21fps -> 1-2fps.
+        # The hardcoded solution is to minimize the self.image to 75%
+
+        result = cv.matchTemplate(compare_image, self.image, cv.TM_CCOEFF_NORMED)
+
+        _, max_val, _, _ = cv.minMaxLoc(result)
+        return max_val
 
     def find(self, running_img, threshold=0.4, debug_mode=None):
         result = cv.matchTemplate(running_img, running_img, self.method)
