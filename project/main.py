@@ -4,7 +4,8 @@ import time
 from library.window_capture import WindowCapture
 from library.vision import Vision
 from library.game import Game
-import library.util
+from library.out import Out
+
 import tests.detection_tests as detection_tests
 
 
@@ -28,6 +29,7 @@ def run_detection_tests():
 def run():
     wincap = WindowCapture('BlueStacks App Player')
     game = Game(strategy='assassin')
+    out = Out()
 
     current_time = time.time()
 
@@ -35,9 +37,9 @@ def run():
         screenshot = wincap.get_screenshot()
         
         screenshot = game.process_frame(screenshot)
-        cv.imshow('Computer Vision', screenshot)
+        # cv.imshow('Computer Vision', screenshot)
 
-        current_time = library.util.fps_compute(current_time)
+        current_time = out.print_out(current_time, game.board)
 
         if cv.waitKey(1) == ord('q'):
             cv.destroyAllWindows()
