@@ -39,6 +39,8 @@ def run():
         screenshot = game.process_frame(screenshot)
         # cv.imshow('Computer Vision', screenshot)
 
+        time.sleep(10)
+
         current_time = out.print_out(current_time, game.board)
 
         if cv.waitKey(1) == ord('q'):
