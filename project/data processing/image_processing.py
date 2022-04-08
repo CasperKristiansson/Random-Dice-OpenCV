@@ -28,15 +28,26 @@ class Processing:
             image_path = os.path.join(self.raw_data_path, image_name)
             image = cv.imread(image_path)
 
+            image = cv.resize(image, None, fx=2, fy=2, interpolation=cv.INTER_CUBIC)
             cv.imshow('Image', image)
             cv.waitKey(0)
             cv.destroyAllWindows()
 
-            string = ' '.join(f'{dice}={index + 1}' for index, dice in enumerate(self.dices))
+            string = ' '.join(f'{dice}={index + 1}' for index, dice in enumerate(self.dices)) + ' Empty=0 Remove=-'
+
             print(string)
             dice_type = input('Enter Type: ')
-            dice_rank = input('Enter rank: ')
 
+            if dice_type == '-':
+                os.remove(image_path)
+                continue
+
+            if int(dice_type) == 0:
+                path = os.path.join(self.destination_path, 'Empty')
+                os.rename(image_path, os.path.join(path, image_name))
+                continue
+
+            dice_rank = input('Enter rank: ')
             path = os.path.join(self.destination_path, os.path.join(self.dices[int(dice_type) - 1], f'Level {str(dice_rank)}'))
 
             if not os.path.exists(path):
@@ -52,7 +63,7 @@ if __name__ == '__main__':
         'Bounty',
         'Joker',
         'Mimic',
-        'Mine'
+        'Mine',
     ]
 
     processing = Processing(dices)
