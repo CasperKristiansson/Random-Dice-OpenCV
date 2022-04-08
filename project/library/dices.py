@@ -3,7 +3,7 @@ from library.vision import Vision
 
 def get_empty():
     return [
-        Vision('assets\Dices\Empty\Green Empty.png')
+        Vision('assets\Dices\Other\Green Empty.png')
     ]
 
 

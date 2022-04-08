@@ -45,6 +45,4 @@ class Game:
 
         # self.balance, self.dice_cost = image_computations.process_balance(image)
 
-        print(self.board)
-
         return image
