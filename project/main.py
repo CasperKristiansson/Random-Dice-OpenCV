@@ -19,8 +19,6 @@ def run_detection_tests():
         screenshot = detection_tests.detect_coop_box(screenshot)
         cv.imshow('Computer Vision', screenshot)
 
-        current_time = library.util.fps_compute(current_time)
-
         if cv.waitKey(1) == ord('q'):
             cv.destroyAllWindows()
             break
@@ -39,7 +37,7 @@ def run():
         screenshot = game.process_frame(screenshot)
         # cv.imshow('Computer Vision', screenshot)
 
-        time.sleep(0.2)
+        # time.sleep(0.2)
 
         current_time = out.print_out(current_time, game.board)
 

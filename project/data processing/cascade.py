@@ -1,6 +1,9 @@
 """
 https://www.youtube.com/watch?v=XrCAvs9AePM&t=466s
+
+Train Model:
 """
+# C:\Users\caspe\Downloads\opencv\build\x64\vc15\bin\opencv_traincascade.exe -data assets\Model\Assassin_Strategy\Assassin\model\ -vec assets\Model\Assassin_Strategy\Assassin\pos.vec -bg assets\Model\Assassin_Strategy\Assassin\neg.txt -numPos 100 -numNeg 400 -numStages 10 -w 24 -h 24
 
 import os
 import cv2 as cv
@@ -48,15 +51,16 @@ def cascade_positive_sample(positive_dice_type):
         image = cv.imread(row)
         image_width, image_height = image.shape[:2]
         positive_sample[index] = f'{row}  1  0 0 {image_width - 1} {image_height - 1}'
-        print(positive_sample[index])
+        # print(positive_sample[index])
 
     
     print(len(positive_sample))
 
-    with open(os.path.join('assets\\Model\\Assassin Strategy\\Assassin', 'pos.txt'), 'w') as file:
-        for row in positive_sample:
-            file.write(f'{row}\n')
+    # with open(os.path.join('assets\\Model\\Assassin Strategy\\Assassin', 'pos.txt'), 'w') as file:
+    #     for row in positive_sample:
+    #         file.write(f'{row}\n')
 
 
 if __name__ in '__main__':
     cascade_negative_samples('Assassin')
+    cascade_positive_sample('Assassin')

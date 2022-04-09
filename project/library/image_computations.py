@@ -55,7 +55,8 @@ def process_board(squares, dices_type, dices_model):
                 x, y, w, h = recantangle
                 area = (w - x) * (h - y)
             if area > 2500:
-                board[index_square // 5][index_square % 5] = f'{dices_type[index_model]} - {area}'
+                # board[index_square // 5][index_square % 5] = f'{dices_type[index_model]} - {area}'
+                board[index_square // 5][index_square % 5] = dices_type[index_model]
                 break
     
     
@@ -70,3 +71,10 @@ def process_balance(image):
     ]
 
     return None, balance_image
+
+
+def image(image_compare, screenshot):
+    result = cv.matchTemplate(image_compare, screenshot, cv.TM_CCOEFF_NORMED)
+
+    _, max_val, _, _ = cv.minMaxLoc(result)
+    return max_val
