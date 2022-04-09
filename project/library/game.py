@@ -17,31 +17,29 @@ class Game:
             self.assassin_strategy()
         
     def assassin_strategy(self):
-        self.dice_one = dices.get_assassin_dice()
-        self.dice_one_type = 'assassin'
-
-        self.dice_two = dices.get_joker_dice()
-        self.dice_two_type = 'joker'
-
-        self.dice_three = dices.get_summoner_dice()
-        self.dice_three_type = 'summoner'
-
-        self.dice_four = dices.get_mimic_dice()
-        self.dice_four_type = 'mimic'
+        self.dice_one_type = 'Assassin'
+        self.dice_two_type = 'Bounty'
+        self.dice_three_type = 'Joker'
+        self.dice_four_type = 'Mimic'
+        self.dice_five_type = 'Mine'
 
         self.empty = dices.get_empty()
 
-        self.dices = [
-            self.empty,
-            self.dice_one,
-            self.dice_two,
-            self.dice_three,
-            self.dice_four
-        ]     
+        self.dices_model = [
+            cv.CascadeClassifier('assets\Model\Assassin_Strategy\Assassin\cascade\cascade.xml')
+        ]  
+
+        self.dices_type = [
+            self.dice_one_type,
+            self.dice_two_type,
+            self.dice_three_type,
+            self.dice_four_type
+
+        ]
 
     def process_frame(self, image):
         squares, squares_coordinates = image_computations.process_dice_board(image)
-        self.board = image_computations.process_board(squares, self.dices)
+        self.board = image_computations.process_board(squares, self.dices_type, self.dices_model)
 
         # self.balance, self.dice_cost = image_computations.process_balance(image)
 
