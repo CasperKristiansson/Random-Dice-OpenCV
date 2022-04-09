@@ -35,12 +35,11 @@ def run():
 
     while True:
         screenshot = wincap.get_screenshot()
-        
+
         screenshot = game.process_frame(screenshot)
         # cv.imshow('Computer Vision', screenshot)
 
-        # time.sleep(10)
-        break
+        time.sleep(0.2)
 
         current_time = out.print_out(current_time, game.board)
 

@@ -2,8 +2,6 @@ import uuid
 import cv2 as cv
 import itertools
 
-cascade_model = cv.CascadeClassifier('assets\Model\Assassin_Strategy\Assassin\cascade\cascade.xml')
-
 def process_dice_board(image):
     width, height, _ = image.shape
 
@@ -39,53 +37,27 @@ def process_dice_board(image):
             int((i * width_board / rows + width_board / rows / 2) + width * 0.555),
         ))
 
-    # for square in squares:
-    #     cv.imwrite(f'assets\\Raw Data\\{uuid.uuid4()}.png', square)
-
-    for square in squares:
-        rectangles = cascade_model.detectMultiScale(square)
-        area = 0
-        for rectangle in rectangles:
-            x, y, w, h = rectangle
-            area += (w - x) * (h - y)
-
-        if area >= 2500:
-            break
-        
-        print(area)
-
     return squares, squares_coordinates
 
 
-def process_board(squares, dices):
+def process_board(squares, dices_type, dices_model):
     board = [
         [None, None, None, None, None],
         [None, None, None, None, None],
         [None, None, None, None, None]
     ]
 
-    for row, column in itertools.product(range(3), range(5)):
-        confidence = []
-        dices_index = []
-
-        for dice_type_index, dice_type in enumerate(dices):
-            for dice_rank_index, dice_rank in enumerate(dice_type):
-
-                confidence.append(
-                    dice_rank.confidence(squares[row * 5 + column])
-                )
-
-                dices_index.append(
-                    (dice_type_index, dice_rank_index)
-                )
-
-        confidence_max = max(confidence)
-
-        if confidence_max > 0.4:
-            index = confidence.index(confidence_max)
-            if dices_index[index] != (0, 0):
-                # print(confidence_max)
-                board[row][column] = dices_index[index]
+    for index_square, square in enumerate(squares):
+        for index_model, model in enumerate(dices_model):
+            rectangles = model.detectMultiScale(square)
+            area = 0
+            for recantangle in rectangles:
+                x, y, w, h = recantangle
+                area = (w - x) * (h - y)
+            if area > 2500:
+                board[index_square // 5][index_square % 5] = f'{dices_type[index_model]} - {area}'
+                break
+    
     
     return board
 
