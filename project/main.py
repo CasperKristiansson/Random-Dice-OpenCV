@@ -6,40 +6,22 @@ from library.vision import Vision
 from library.game import Game
 from library.out import Out
 
-import tests.detection_tests as detection_tests
-
-
-def run_detection_tests():
-    wincap = WindowCapture('BlueStacks App Player')
-    current_time = time.time()
-
-    while True:
-        screenshot = wincap.get_screenshot()
-        screenshot = detection_tests.detect_pvp_box(screenshot)
-        screenshot = detection_tests.detect_coop_box(screenshot)
-        cv.imshow('Computer Vision', screenshot)
-
-        if cv.waitKey(1) == ord('q'):
-            cv.destroyAllWindows()
-            break
-
 
 def run():
     wincap = WindowCapture('BlueStacks App Player')
     game = Game(strategy='assassin')
+    game.set_offset_coordinates(wincap.offset_x, wincap.offset_y)
     out = Out()
 
     current_time = time.time()
 
     while True:
         screenshot = wincap.get_screenshot()
-
         screenshot = game.process_frame(screenshot)
         # cv.imshow('Computer Vision', screenshot)
 
-        # time.sleep(0.2)
-
-        current_time = out.print_out(current_time, game.board)
+        # current_time = out.print_out(current_time, game.board)
+        out.print_board(game.banned_merges)
 
         if cv.waitKey(1) == ord('q'):
             cv.destroyAllWindows()
@@ -48,7 +30,6 @@ def run():
 
 def main():
     run()
-    # run_detection_tests()
 
 
 if __name__ == '__main__':

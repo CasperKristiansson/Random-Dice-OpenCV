@@ -2,9 +2,6 @@ import win32gui, win32ui, win32con
 import numpy as np
 
 class WindowCapture:
-    """
-    https://learncodebygaming.com/blog/fast-window-capture
-    """
     width = 0
     height = 0
     height_window = None
@@ -13,10 +10,10 @@ class WindowCapture:
     offset_x = 0
     offset_y = 0
 
-    def __init__(self, window_name):  # sourcery skip: raise-specific-error
+    def __init__(self, window_name):
         self.height_window = win32gui.FindWindow(None, window_name)
         if not self.height_window:
-            raise Exception(f'Window not found: {window_name}')
+            raise ValueError(f'Window not found: {window_name}')
 
         window_rect = win32gui.GetWindowRect(self.height_window)
         self.width = window_rect[2] - window_rect[0]
@@ -50,7 +47,8 @@ class WindowCapture:
         win32gui.ReleaseDC(self.height_window, wDC)
         win32gui.DeleteObject(dataBitMap.GetHandle())
 
-        # This causes the matchTemplate opencv function to fail
+        # This causes the matchTemplate opencv function to fail.
+        # The image manipulation should have done the reverse.
         # img = img[...,:3]
 
         img = np.ascontiguousarray(img)
