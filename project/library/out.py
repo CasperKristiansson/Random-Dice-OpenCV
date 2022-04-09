@@ -19,6 +19,12 @@ class Out:
             rich.print(row)
 
         return end_time
+    
+    def print_board(self, banned_merges):
+        """"""
+        print('\n\n\n\n\n\n\n\n')
+
+        rich.print(banned_merges)
 
 
 if __name__ == '__main__':

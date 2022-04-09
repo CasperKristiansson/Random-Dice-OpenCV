@@ -32,10 +32,10 @@ def process_dice_board(image):
         #? This function could in theory be computed once and then
         #? used to calculate the coordinates for each dice square.
         #? Should maybe be done in the future?
-        squares_coordinates.append((
+        squares_coordinates.append([
             int((j * height_board / columns + height_board / columns / 2) + height * 0.195),
             int((i * width_board / rows + width_board / rows / 2) + width * 0.555),
-        ))
+        ])
 
     return squares, squares_coordinates
 
@@ -47,7 +47,10 @@ def process_board(squares, dices_type, dices_model):
         [None, None, None, None, None]
     ]
 
+    board_list = []
+
     for index_square, square in enumerate(squares):
+        jump = False
         for index_model, model in enumerate(dices_model):
             rectangles = model.detectMultiScale(square)
             area = 0
@@ -55,11 +58,16 @@ def process_board(squares, dices_type, dices_model):
                 x, y, w, h = recantangle
                 area = (w - x) * (h - y)
             if area > 2500:
-                board[index_square // 5][index_square % 5] = f'{dices_type[index_model]} - {area}'
+                # board[index_square // 5][index_square % 5] = f'{dices_type[index_model]} - {area}'
+                board[index_square // 5][index_square % 5] = dices_type[index_model]
+                board_list.append(dices_type[index_model])
+                jump = True
                 break
-    
-    
-    return board
+
+        if not jump:
+            board_list.append(None)    
+
+    return board, board_list
 
 def process_balance(image):
     width, height, _ = image.shape
@@ -70,3 +78,10 @@ def process_balance(image):
     ]
 
     return None, balance_image
+
+
+def image(image_compare, screenshot):
+    result = cv.matchTemplate(image_compare, screenshot, cv.TM_CCOEFF_NORMED)
+
+    _, max_val, _, _ = cv.minMaxLoc(result)
+    return max_val

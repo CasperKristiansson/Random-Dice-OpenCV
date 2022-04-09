@@ -1,0 +1,1 @@
+C:\Users\caspe\Downloads\opencv\build\x64\vc15\bin\opencv_traincascade.exe -data assets\Model\Assassin_Strategy\Assassin\model\ -vec assets\Model\Assassin_Strategy\Assassin\pos.vec -bg assets\Model\Assassin_Strategy\Assassin\neg.txt -numPos 100 -numNeg 400 -numStages 10 -w 24 -h 24

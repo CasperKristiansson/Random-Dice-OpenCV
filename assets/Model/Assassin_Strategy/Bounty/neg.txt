@@ -1,0 +1,487 @@
+assets\Dices\Assassin\Level_1\016f9218-175d-40da-a134-904c5aca9d14.png
+assets\Dices\Assassin\Level_1\049ff164-8caf-44d4-9053-7e6de7464c5e.png
+assets\Dices\Assassin\Level_1\12610b85-93cd-45a9-b8e4-6f0a6e436c66.png
+assets\Dices\Assassin\Level_1\15c05ef8-d4cd-4c15-a385-8d0d54f31e60.png
+assets\Dices\Assassin\Level_1\1d778575-9c4e-4fd2-8c15-a2b65f7217b9.png
+assets\Dices\Assassin\Level_1\2076b757-36bf-4b12-9d39-37bb7334a962.png
+assets\Dices\Assassin\Level_1\312d6ce2-367d-4c03-9d9d-f96a7c39ed1e.png
+assets\Dices\Assassin\Level_1\4966d0e9-abed-4b51-bda8-b3d9e44ce7da.png
+assets\Dices\Assassin\Level_1\58dca300-0ef7-4516-a7d0-8ba772f8d5e5.png
+assets\Dices\Assassin\Level_1\59101b92-df32-4660-ad70-9268e312ccd7.png
+assets\Dices\Assassin\Level_1\592db3d4-4088-4913-aaf0-b127c49724df.png
+assets\Dices\Assassin\Level_1\5cca23e4-19db-4554-b6f7-0347406305b6.png
+assets\Dices\Assassin\Level_1\60614e1a-bee9-41e5-af25-ef82bc6aea6e.png
+assets\Dices\Assassin\Level_1\65a3d48c-9b29-4d9b-a4ab-cf7703782ede.png
+assets\Dices\Assassin\Level_1\65e92808-99f6-4cd7-aff3-5611a08c6396.png
+assets\Dices\Assassin\Level_1\675e934f-7382-40e4-a67e-3417f0e262e5.png
+assets\Dices\Assassin\Level_1\6879e1af-4c11-4757-adca-5ada6569ca77.png
+assets\Dices\Assassin\Level_1\6ad0d067-5cc6-4326-8b08-1db5df5cb13c.png
+assets\Dices\Assassin\Level_1\6e17f8e0-98ab-4291-891b-cffa8ddf4ef1.png
+assets\Dices\Assassin\Level_1\71504fba-6ce4-4b76-9192-45d3219fdb13.png
+assets\Dices\Assassin\Level_1\780b4314-8f45-4131-933f-2bb977c7cb8d.png
+assets\Dices\Assassin\Level_1\78e82b56-ff1a-489e-8700-ac9f12d53e0f.png
+assets\Dices\Assassin\Level_1\7c333500-cdfc-4969-9fd5-2981b9a925ef.png
+assets\Dices\Assassin\Level_1\830dde00-f944-4023-90a7-2b138c42dc56.png
+assets\Dices\Assassin\Level_1\8d1383ef-15af-4cb6-9dc0-2d3d4406f7ed.png
+assets\Dices\Assassin\Level_1\9318ea19-8c52-4804-987f-2f5f207908ea.png
+assets\Dices\Assassin\Level_1\94bb3039-fd29-4ad7-b7ed-578868779110.png
+assets\Dices\Assassin\Level_1\94d81748-3e7d-4bda-beab-e7f743a49cf7.png
+assets\Dices\Assassin\Level_1\98442300-8a81-4835-90eb-3a22edb658cf.png
+assets\Dices\Assassin\Level_1\9b8b4168-caa8-404f-9938-64e04a7da14e.png
+assets\Dices\Assassin\Level_1\9f8cc381-376a-4498-bd20-69e38115abef.png
+assets\Dices\Assassin\Level_1\a6efd5ee-896e-4638-a994-31bf055ddff1.png
+assets\Dices\Assassin\Level_1\a8c4886d-44e9-43b0-a85f-e3f436b0fbd7.png
+assets\Dices\Assassin\Level_1\ad0e98aa-2c64-4307-a2d6-ab20cd6811f2.png
+assets\Dices\Assassin\Level_1\b559b1a2-5d9a-4506-afc0-eaf631464c31.png
+assets\Dices\Assassin\Level_1\b57e3fea-57db-4dbb-b22b-f0e089393313.png
+assets\Dices\Assassin\Level_1\bbaf95d2-32e2-4d7a-876b-64401bff1750.png
+assets\Dices\Assassin\Level_1\ce080f6d-09cc-413d-9804-aa811eecb110.png
+assets\Dices\Assassin\Level_1\ce728bf4-629b-41d7-9d96-b41ae2ddfca2.png
+assets\Dices\Assassin\Level_1\cf319043-671a-40dc-ba09-98fecae05abb.png
+assets\Dices\Assassin\Level_1\ead03428-3049-46c3-8404-c7219960e41f.png
+assets\Dices\Assassin\Level_1\ec32852f-abcd-4f18-9e05-711c80a708c4.png
+assets\Dices\Assassin\Level_1\ee1f492b-ac1d-45a5-b567-1dde0bf7439e.png
+assets\Dices\Assassin\Level_1\f1fe3cc1-795d-482d-ab28-c06ab602b612.png
+assets\Dices\Assassin\Level_1\f7f0b1d7-07c1-40dd-bdc8-11622aef5a33.png
+assets\Dices\Assassin\Level_1\fe09011b-3470-4988-a43c-34887f220d8d.png
+assets\Dices\Assassin\Level_1\ffab35e1-e2c4-42ab-9f71-318187bca626.png
+assets\Dices\Assassin\Level_1\ffb29209-77e3-4d73-b83f-0e4bafe9f481.png
+assets\Dices\Assassin\Level_2\2cd932b0-53c0-4bcb-82b3-c29b9ba5908e.png
+assets\Dices\Assassin\Level_2\36a8e01c-a743-4795-b2a3-ec5c371aa408.png
+assets\Dices\Assassin\Level_2\3d0ff77a-8d69-4856-a131-79a7ce536fab.png
+assets\Dices\Assassin\Level_2\492f17e3-4020-4516-9712-1e1dbbfa4437.png
+assets\Dices\Assassin\Level_2\527a691d-08b4-43a0-95eb-f0766922a152.png
+assets\Dices\Assassin\Level_2\5575d501-a476-4b7b-b066-b0779698658b.png
+assets\Dices\Assassin\Level_2\7fab6f5a-b022-400f-bc4e-198545c5452a.png
+assets\Dices\Assassin\Level_2\8bf2950a-0113-4bb3-a2c7-d5c035827ee4.png
+assets\Dices\Assassin\Level_2\8d324221-641b-413e-a468-1a4799eeb60c.png
+assets\Dices\Assassin\Level_2\8e0a7bbb-76d9-472a-853d-74e6bfded4fd.png
+assets\Dices\Assassin\Level_2\c63edf33-1f82-470e-b3fb-dbed5091b83b.png
+assets\Dices\Assassin\Level_2\d4a710a6-4903-46df-9f78-9c102f47fce3.png
+assets\Dices\Assassin\Level_2\eafde108-fd50-41de-bbf6-937defda07cb.png
+assets\Dices\Assassin\Level_2\eeafaac8-9e8f-461a-8325-ec85bb3fa4a3.png
+assets\Dices\Assassin\Level_2\ff0154d7-dfe5-4c69-b4f9-b95d228a96d7.png
+assets\Dices\Assassin\Level_3\023002ff-8473-45e8-b89f-96ee6473e034.png
+assets\Dices\Assassin\Level_3\06b213de-b37a-481f-a21a-e9dea1cc8469.png
+assets\Dices\Assassin\Level_3\0cedcc2b-cb96-4e81-b06c-efac6b3861ca.png
+assets\Dices\Assassin\Level_3\0cfca9af-a475-4cb6-9264-81c972d07457.png
+assets\Dices\Assassin\Level_3\17f2df39-0632-442f-9b17-d3307e6e20b1.png
+assets\Dices\Assassin\Level_3\19a0e18f-765b-492c-84b5-ee271a8adcfa.png
+assets\Dices\Assassin\Level_3\283e08c6-0b26-4145-bd05-f54f0dec3d53.png
+assets\Dices\Assassin\Level_3\2f2ea7d7-d988-46b0-87b0-279b06315a45.png
+assets\Dices\Assassin\Level_3\9e8c5f63-c72f-485b-964c-1f93d7ea2cd2.png
+assets\Dices\Assassin\Level_3\9feaa4dd-9dda-4625-b91d-2fbbb184387a.png
+assets\Dices\Assassin\Level_3\b6806b1b-e46c-41d2-8798-6d65d36ddd8b.png
+assets\Dices\Assassin\Level_3\be0c8d88-9204-42f5-9de1-57a99eda41af.png
+assets\Dices\Assassin\Level_3\c1b28a28-1b20-484b-9b28-e9ebc34a6247.png
+assets\Dices\Assassin\Level_3\cb15c547-8fe3-43ec-a653-dfa9fe794e16.png
+assets\Dices\Assassin\Level_3\dbdbe5db-74bf-45fc-ba1c-ef2912e435b9.png
+assets\Dices\Assassin\Level_3\e3b223d5-5e58-4805-9acc-1cdd9201e146.png
+assets\Dices\Assassin\Level_4\328c46a9-6ee6-4446-9cdb-d0011b69ce31.png
+assets\Dices\Assassin\Level_4\3a8d52e3-646c-4fd3-8bc6-4d11af48babe.png
+assets\Dices\Assassin\Level_4\3c5f9081-9495-4026-8384-e4a5e909ff5a.png
+assets\Dices\Assassin\Level_4\42625010-a983-4394-90eb-ca1729ba949b.png
+assets\Dices\Assassin\Level_4\569cb7c1-6c3c-4ed4-8441-29dba1152008.png
+assets\Dices\Assassin\Level_4\57ba0d4b-0825-48f7-973c-5fd15845e4dd.png
+assets\Dices\Assassin\Level_4\5dd000fc-f66e-415c-a8a4-b77d872582b7.png
+assets\Dices\Assassin\Level_4\6fd7ef0a-02a6-4e3e-81a4-d46fa1e00a8b.png
+assets\Dices\Assassin\Level_4\7440c3c6-08b1-479d-a3f3-daf5a4fda6f5.png
+assets\Dices\Assassin\Level_4\78493e0d-0eda-4fa1-a742-00290bc40b4a.png
+assets\Dices\Assassin\Level_4\83c26662-0ef5-478d-88c1-2eefab6cf485.png
+assets\Dices\Assassin\Level_4\a78961a6-154b-49ee-8340-e7444c5ce635.png
+assets\Dices\Assassin\Level_4\acae6c5c-2b0c-408d-9c19-5f83a4509663.png
+assets\Dices\Assassin\Level_4\b1afd745-f396-42cf-8532-6fe62f77f700.png
+assets\Dices\Assassin\Level_4\c2be83f2-d789-4b77-8da0-9a88637a4947.png
+assets\Dices\Assassin\Level_4\c63d3e83-e01c-4190-bfee-cf7e6a67a127.png
+assets\Dices\Assassin\Level_4\cf9279cf-d7d5-4b35-bae0-3ab84615dd4a.png
+assets\Dices\Assassin\Level_4\e2527a37-76a7-46b9-914d-af6a938c472d.png
+assets\Dices\Assassin\Level_4\ff62f657-9510-4ffd-8fd1-21c4f08da242.png
+assets\Dices\Assassin\Level_5\0e250f38-3c85-40fc-bc5c-b6b20a0dac20.png
+assets\Dices\Assassin\Level_5\17ad485e-b103-4b18-9bca-d5b29d156ce7.png
+assets\Dices\Assassin\Level_5\4c972389-221c-4a20-b9a9-8c8ee45f9b50.png
+assets\Dices\Assassin\Level_5\61922916-605c-4925-8bf9-a4b988c22c10.png
+assets\Dices\Assassin\Level_5\6571c58e-ae66-4f89-889e-01686b434cf3.png
+assets\Dices\Assassin\Level_5\898019ac-24a5-488a-a79a-c6b3f6840db6.png
+assets\Dices\Assassin\Level_5\966f2ad6-4201-4e68-9ec6-f32d7fd82091.png
+assets\Dices\Assassin\Level_5\b29c5083-48c1-4aaa-91d5-2e1585acd4c3.png
+assets\Dices\Assassin\Level_5\bc0ea036-e240-4d45-ad81-622b91121468.png
+assets\Dices\Assassin\Level_5\bdeca4ab-7549-4d78-b529-2754faf7ad26.png
+assets\Dices\Assassin\Level_5\c240a100-046d-4fe2-b8a8-f948629ec695.png
+assets\Dices\Assassin\Level_5\ce44893a-1830-4698-a0e6-f42c6740bf7c.png
+assets\Dices\Assassin\Level_5\cf09a7c2-6a21-4735-b570-cb6175118230.png
+assets\Dices\Assassin\Level_5\e63fe8d2-d423-429f-961a-949c4782cc9d.png
+assets\Dices\Assassin\Level_7\2602a245-2170-4f0c-be34-cf9fffe463d8.png
+assets\Dices\Assassin\Level_7\96f3794b-9b05-48d6-95e5-eb14f5f5f4aa.png
+assets\Dices\Empty\028197f1-b5db-46cb-9223-97f533cf0970.png
+assets\Dices\Empty\05a2519c-758b-4767-9767-109ca0a6dd4b.png
+assets\Dices\Empty\08ddd01b-15dd-4990-b0e0-6f577de1fbe4.png
+assets\Dices\Empty\08f05c70-30a1-4da7-9743-6bc315bd127d.png
+assets\Dices\Empty\0c932792-cb29-45fa-9e02-df5bd7e73836.png
+assets\Dices\Empty\158ce650-b45a-4d1d-bbc0-3cbae0bf52cb.png
+assets\Dices\Empty\1892b631-3ba6-42fa-b7a5-2c548b9d2341.png
+assets\Dices\Empty\1a4b5623-19f2-4586-ace3-251a96df4cfb.png
+assets\Dices\Empty\1c8a9a32-d137-4056-9f96-1dc999313d6e.png
+assets\Dices\Empty\1cf2e27a-39ed-48d6-906d-da360bf5d85d.png
+assets\Dices\Empty\1e3512d4-c054-4853-b6bd-06034bfa1a9a.png
+assets\Dices\Empty\206ba3f0-0de7-470c-b92f-1dbd604972aa.png
+assets\Dices\Empty\24afcd90-5a45-48d9-a622-92f1de501be3.png
+assets\Dices\Empty\274d26ce-cfa3-4093-bf93-0f258bbc6544.png
+assets\Dices\Empty\280ad9ce-445c-4bc4-915e-8830cd952b01.png
+assets\Dices\Empty\2dc3e12d-ad49-4ca1-97b4-dfabf95d6c9f.png
+assets\Dices\Empty\32bf288c-e416-4707-9f3e-26b5a1e37af1.png
+assets\Dices\Empty\339ef1e5-46b5-4986-820b-02fcfff224e0.png
+assets\Dices\Empty\35c8389e-3342-4f83-9166-af1d4549bc31.png
+assets\Dices\Empty\35d3e6f6-5274-444c-9d72-188bab355b7a.png
+assets\Dices\Empty\36b7f29d-0318-4886-9dc1-9fe051f2d229.png
+assets\Dices\Empty\39b5cd57-f994-476c-87a2-ef7efbae2e17.png
+assets\Dices\Empty\3aa5df7c-c01c-49fc-9c21-17bad7443965.png
+assets\Dices\Empty\415a38e7-90a4-433e-b43e-0a3d1037aa34.png
+assets\Dices\Empty\45cc15d2-f1aa-47fa-808e-944a3d3c7d9d.png
+assets\Dices\Empty\4e32905a-000c-4028-8922-12e57a5d9ef3.png
+assets\Dices\Empty\5392e71a-187e-4f98-9226-95e404962cfb.png
+assets\Dices\Empty\53dc8361-e89e-4b93-85a3-36523a4817ec.png
+assets\Dices\Empty\5456942e-2e2e-4777-9bc7-c517d86b4184.png
+assets\Dices\Empty\5479f200-ec7e-4633-a890-613051bd8d48.png
+assets\Dices\Empty\552d4192-44a2-4b51-abf0-44c3425c21ca.png
+assets\Dices\Empty\60822b09-e895-4ef9-9c34-5ffe463b44b7.png
+assets\Dices\Empty\60ce02a7-e6de-4beb-b193-4c485d06e519.png
+assets\Dices\Empty\65d3618c-97ca-4a39-9b64-2678ae848a5e.png
+assets\Dices\Empty\6bdf6854-0875-45cf-b3a1-801a98f45a16.png
+assets\Dices\Empty\70960979-61e1-4fc4-b472-ce74dc0b03d8.png
+assets\Dices\Empty\7d83afc8-c4e6-451c-b153-e6ad3580a451.png
+assets\Dices\Empty\7dc6d646-f950-4eaf-bb78-aafbc800e73d.png
+assets\Dices\Empty\7f67d49b-d6c5-4714-8603-902d9c30aedf.png
+assets\Dices\Empty\83028241-ccd8-4ad6-ab66-244b243f2f46.png
+assets\Dices\Empty\83852297-b2e1-4d14-a0ae-5d8eb437acc4.png
+assets\Dices\Empty\856969c5-8755-4466-a3c6-9db56ee07826.png
+assets\Dices\Empty\8d2df4e3-ebbf-4e5f-bf84-a2ad7e89cf6f.png
+assets\Dices\Empty\8df632ef-1207-4a4d-a158-1bc105f8f4eb.png
+assets\Dices\Empty\8ed008cc-b7a7-4019-a71b-4df7ff50ac88.png
+assets\Dices\Empty\8f34bb72-b5c4-4e1e-8b25-800548cff75d.png
+assets\Dices\Empty\93e76d3c-b180-41e8-b8dc-3e4bab494737.png
+assets\Dices\Empty\95d10b1f-bb81-4e72-9241-8b37090594ca.png
+assets\Dices\Empty\9b7996d1-8472-4a69-9d5c-35bfd76ecc9f.png
+assets\Dices\Empty\9fdcdfc1-4a12-404d-9a4c-1e0651517b68.png
+assets\Dices\Empty\a023e2d5-3dd4-43b4-bc1f-cebd47451d6c.png
+assets\Dices\Empty\afad0ecb-9603-416a-8962-62c09b3868c0.png
+assets\Dices\Empty\b52f248f-ee83-4a8a-9865-c76314c03394.png
+assets\Dices\Empty\c0ac3b65-8411-4250-b6f6-eb172ac1b9bf.png
+assets\Dices\Empty\c19b4abb-c255-4c5a-88f7-346af383ad9e.png
+assets\Dices\Empty\c2eb5268-3e1f-4360-9b71-fb41b807926a.png
+assets\Dices\Empty\c325b721-8326-413c-8203-56a6de7ec201.png
+assets\Dices\Empty\c46ff368-aeb1-4d65-a1a6-948577bd13af.png
+assets\Dices\Empty\c712426a-47de-437f-b49d-61fa686edbd6.png
+assets\Dices\Empty\cceabb3a-6184-4ecb-a382-0baa957900e8.png
+assets\Dices\Empty\ccface83-ac13-4c27-9a66-94cb2bd4d4da.png
+assets\Dices\Empty\d045472c-e71f-4205-aa05-56c247dfd8d7.png
+assets\Dices\Empty\d548b7fa-ee20-427b-9572-ee726760f2a3.png
+assets\Dices\Empty\d58a877e-b759-4974-bd03-2ab026ab98ea.png
+assets\Dices\Empty\d59da1a3-82f4-4ddf-a498-9f64bf5956ef.png
+assets\Dices\Empty\d673e5bb-5ed6-46fe-a88f-4a13578b833a.png
+assets\Dices\Empty\d95502af-92a4-4319-8e21-cf71e3a5319e.png
+assets\Dices\Empty\e08dcc09-c90f-4169-beed-77502a49419a.png
+assets\Dices\Empty\e2240791-12d5-4ae7-9603-a0ddcf2e5714.png
+assets\Dices\Empty\e3a32c67-3e39-4bf0-a429-59172839f2f4.png
+assets\Dices\Empty\e4697433-e301-49e2-a418-69c6737e6635.png
+assets\Dices\Empty\e46ab599-74e3-4dd2-ac72-7ecf878f6788.png
+assets\Dices\Empty\ea452031-9568-4ecb-8f20-e8a9640d1b7c.png
+assets\Dices\Empty\f04c7ac0-0e88-41e3-ac9d-6e32a120aad7.png
+assets\Dices\Empty\f05d9317-2b85-454f-a0b3-fc484fc90af6.png
+assets\Dices\Empty\f08c842f-5543-4909-904c-cc1fbb2f5db4.png
+assets\Dices\Empty\f185de26-1268-4194-b385-196bac7e6ed9.png
+assets\Dices\Empty\f40b8bda-c029-4216-bdd0-c3b6e786326d.png
+assets\Dices\Empty\fd0a5b9a-e8b9-49e2-a0f0-062e054ad213.png
+assets\Dices\Joker\Level_1\09ed8130-13da-45fb-9030-f0ca7ff1df93.png
+assets\Dices\Joker\Level_1\0a63cf8d-0379-44b7-8d20-4f77f078d393.png
+assets\Dices\Joker\Level_1\16d7441c-d82b-4461-a210-3df10fd2f091.png
+assets\Dices\Joker\Level_1\18830fad-a79e-4df1-9faf-e359d1444a9d.png
+assets\Dices\Joker\Level_1\1e8e797c-64e8-44ec-a074-146d277da14c.png
+assets\Dices\Joker\Level_1\1f5552ab-f8f8-4ac5-9184-8005290e40f5.png
+assets\Dices\Joker\Level_1\2d5a7738-7892-4085-80d7-548bdeeee731.png
+assets\Dices\Joker\Level_1\3a60074d-f6ea-4b0e-a6e7-0f345c9be5ee.png
+assets\Dices\Joker\Level_1\5081b351-8653-4c10-81fc-3d89c875104f.png
+assets\Dices\Joker\Level_1\5380f02e-904b-4fb9-9757-dbc29b6234fe.png
+assets\Dices\Joker\Level_1\538a4dd0-d3b2-4464-a5c3-ac1a77d15241.png
+assets\Dices\Joker\Level_1\5ff4bc03-8978-4727-b65d-28e12ec29e9d.png
+assets\Dices\Joker\Level_1\624a909b-a32f-4b94-a187-765e576b3a71.png
+assets\Dices\Joker\Level_1\7a230cb9-8eb6-464e-bee0-4a755645f44b.png
+assets\Dices\Joker\Level_1\7af163ca-f95d-4cae-8b05-aed3d2d48d68.png
+assets\Dices\Joker\Level_1\81c67aeb-ea24-446c-88ff-7e9d5d90eaeb.png
+assets\Dices\Joker\Level_1\87f1700e-f209-4727-8f76-95f121f7eca2.png
+assets\Dices\Joker\Level_1\8cfd6acf-22dc-45a5-a956-7f7eea4ba23c.png
+assets\Dices\Joker\Level_1\8e797252-d5a4-42c9-b833-2b084072233c.png
+assets\Dices\Joker\Level_1\903a6a08-4a9f-49da-a5c0-1d9640d07234.png
+assets\Dices\Joker\Level_1\93410afd-b4d0-4e7d-882a-1dcd78277891.png
+assets\Dices\Joker\Level_1\93fee600-d29b-408a-85c5-3fffd7825825.png
+assets\Dices\Joker\Level_1\99e10a25-ec7b-49f9-8b48-257cf18c2395.png
+assets\Dices\Joker\Level_1\9be7b7c2-a7bd-4e8e-a869-af3bf270fdad.png
+assets\Dices\Joker\Level_1\a1f3cd47-4278-40cc-9066-2653ace97c62.png
+assets\Dices\Joker\Level_1\acc453d0-199d-4292-ba9d-6ac8d6090ed8.png
+assets\Dices\Joker\Level_1\b2003208-3989-47ce-afa1-ec062e399698.png
+assets\Dices\Joker\Level_1\c8f22942-5858-4104-8354-adb021ad14b4.png
+assets\Dices\Joker\Level_1\ca7e9942-5824-4550-94b6-15fff87a1351.png
+assets\Dices\Joker\Level_1\cffd0cb1-c182-47b7-8b04-f67aaab1b885.png
+assets\Dices\Joker\Level_1\ecce3209-86f1-4c5d-aa91-a514660bbc85.png
+assets\Dices\Joker\Level_1\eeb72c3c-08e3-478c-aa43-47bf5a02d8ee.png
+assets\Dices\Joker\Level_1\ef4ec6b2-088f-4304-aa34-e618b4754095.png
+assets\Dices\Joker\Level_1\f52e5ad1-9698-4cbc-85bb-0c1940552dad.png
+assets\Dices\Joker\Level_2\18089992-0286-493b-97a0-83dfbdb1b384.png
+assets\Dices\Joker\Level_2\1a1395bb-2c0d-4994-8223-e8473392b609.png
+assets\Dices\Joker\Level_2\1b8c884b-2fe5-4e61-b06b-05170672270c.png
+assets\Dices\Joker\Level_2\2a8ef5e5-2e1c-47fc-b61c-1d39b6e66f10.png
+assets\Dices\Joker\Level_2\2ac3ace8-6325-4610-a02d-9963eab4b41e.png
+assets\Dices\Joker\Level_2\2ceb4b8b-6282-467c-9ab6-47252fd1f056.png
+assets\Dices\Joker\Level_2\35f931d0-7558-49cd-9a84-9a21d13dabf8.png
+assets\Dices\Joker\Level_2\46f9c3c6-8072-4453-8555-400b1fe85916.png
+assets\Dices\Joker\Level_2\57ee938d-39a0-4f80-a13f-3b999caacaee.png
+assets\Dices\Joker\Level_2\629bd3a1-92d9-4e14-a557-21c6d6c9727a.png
+assets\Dices\Joker\Level_2\643232c0-4578-4fab-9a25-6a1fe54b2b33.png
+assets\Dices\Joker\Level_2\6ba16c9a-9947-4af7-88fb-eef17d99b027.png
+assets\Dices\Joker\Level_2\79ef1795-e65a-450a-9bbe-0a5ad9ad58ab.png
+assets\Dices\Joker\Level_2\90edab37-e916-4485-9d99-b5e2b7497006.png
+assets\Dices\Joker\Level_2\93b804f8-0874-461e-97a6-30a2669e2083.png
+assets\Dices\Joker\Level_2\a923132c-5053-434b-b0da-c42613f187d0.png
+assets\Dices\Joker\Level_2\bc061983-d901-4d35-9106-51508ffcfd95.png
+assets\Dices\Joker\Level_2\c787387d-c759-4c81-b723-6b428955b194.png
+assets\Dices\Joker\Level_2\ca06a40d-dfb7-4350-8777-f6c760b4e8e9.png
+assets\Dices\Joker\Level_2\cc18a80e-b104-43e7-b720-7f6bc9ea572b.png
+assets\Dices\Joker\Level_2\cdadc436-c6bd-4833-8b90-b07c45995c25.png
+assets\Dices\Joker\Level_2\cfe52205-e287-4add-96e1-82e86ffca130.png
+assets\Dices\Joker\Level_2\d499a4b4-db2b-4d8f-9199-8aa23b61b9a6.png
+assets\Dices\Joker\Level_2\e2330657-f37b-43a1-908a-668d5e4bbcac.png
+assets\Dices\Joker\Level_2\f8ff8cd7-cfdc-4973-80ce-581eb7428c36.png
+assets\Dices\Joker\Level_2\fbc131d0-9fac-4a5f-9835-f8e819787603.png
+assets\Dices\Joker\Level_2\fc765401-d581-42ea-acd3-69d730c7ae64.png
+assets\Dices\Joker\Level_3\00b8ff91-2356-496b-82db-3eb45d2efb24.png
+assets\Dices\Joker\Level_3\1ca9cd94-4e31-401a-9042-432c7ac44c1d.png
+assets\Dices\Joker\Level_3\47c8fa9e-90c9-470a-a518-7c8407099a38.png
+assets\Dices\Joker\Level_3\723414e6-b8bc-4195-ac5c-a2caf1d24218.png
+assets\Dices\Joker\Level_3\8cd54201-3da8-4cb8-b291-6242d378dc4b.png
+assets\Dices\Joker\Level_3\dd61dee4-6db4-4b06-93c4-1077ffa1e9bb.png
+assets\Dices\Joker\Level_3\e0ad6103-3986-4e1a-bcd7-7dbf16da07f4.png
+assets\Dices\Joker\Level_3\e35fd353-e4bd-429c-ba05-05edd9bd79ff.png
+assets\Dices\Joker\Level_4\3d2e2e00-5069-4f7d-bccf-50cd20f3fe00.png
+assets\Dices\Joker\Level_4\45653a93-66c9-4a61-8cf6-eef2af1f8a95.png
+assets\Dices\Joker\Level_4\46551c74-1d57-4b1a-9423-1e63199ddb5c.png
+assets\Dices\Joker\Level_5\72c0ba9f-42b7-40f0-951d-9ce965fef14a.png
+assets\Dices\Joker\Level_5\eef4fcdd-fd13-48a8-8d10-979b67d43884.png
+assets\Dices\Joker\Level_5\f8da7a29-0588-4ac0-8748-c972b10da382.png
+assets\Dices\Joker\Level_6\2170b778-9d18-49ca-996d-d5efc5416f87.png
+assets\Dices\Joker\Level_6\4953f0a0-9369-46e1-be4f-fbf40019d73a.png
+assets\Dices\Joker\Level_6\4a588599-e1ca-4090-88a3-bb5cfcd870ae.png
+assets\Dices\Joker\Level_6\5181fe89-c1bb-4d53-95b3-f0881799ad6b.png
+assets\Dices\Joker\Level_6\55c8016f-2e75-4c07-b606-ec45e9f7f8f7.png
+assets\Dices\Joker\Level_6\596211ad-1a33-483a-a2ae-cb9f2f1cccd3.png
+assets\Dices\Joker\Level_6\5adcb953-526a-4039-9eab-3a4458adba45.png
+assets\Dices\Joker\Level_6\7393981d-4708-4cdf-ac29-fd4b66b128b4.png
+assets\Dices\Joker\Level_6\7c188a1a-7352-43fd-ad27-c3240a255216.png
+assets\Dices\Joker\Level_6\9d4a8bc9-fc38-451f-af50-d52336877f39.png
+assets\Dices\Joker\Level_6\a60fef14-1eaa-4fa4-b257-8db674c274c0.png
+assets\Dices\Joker\Level_6\a66dd94b-2903-442d-bb55-97636b73ddfd.png
+assets\Dices\Joker\Level_6\c1d2c8e5-d3df-47dc-9b8c-9af3c1e26754.png
+assets\Dices\Joker\Level_6\c33162dd-cf16-4801-98ec-6b9984967a13.png
+assets\Dices\Joker\Level_6\d1f1b458-be79-4b69-9f29-9f0c008d04e7.png
+assets\Dices\Joker\Level_6\df7cf3bc-f052-491a-9bc9-f4be6fe2a22b.png
+assets\Dices\Joker\Level_6\f032ff8c-3dd3-4f06-b7b7-ab2d629ade4c.png
+assets\Dices\Mimic\Level 1\17d7f44d-c0ce-4daf-92c3-adec93a8a5db.png
+assets\Dices\Mimic\Level 1\2ba725ff-d2f7-4481-a1e0-1142fae5f5c7.png
+assets\Dices\Mimic\Level 1\32cbc959-6c3a-41cd-a220-f4a8ac86523f.png
+assets\Dices\Mimic\Level 1\3868d1ae-c639-4e6a-b93f-322a542c8024.png
+assets\Dices\Mimic\Level 1\40e80f3f-7a13-4c42-b9a6-60655f1260a7.png
+assets\Dices\Mimic\Level 1\4c2624c1-a05f-4a8f-b204-539fa2c6e8bf.png
+assets\Dices\Mimic\Level 1\4cc82e16-4246-4e6c-b018-f95196f1e6de.png
+assets\Dices\Mimic\Level 1\508e4fa1-4d08-4aed-bb48-21feb427b799.png
+assets\Dices\Mimic\Level 1\52b877ca-9b86-445d-8d49-a16d6077e662.png
+assets\Dices\Mimic\Level 1\5da6299e-296f-4c26-b276-049f7e1195ff.png
+assets\Dices\Mimic\Level 1\6264aaff-1f35-4a4d-95c5-0caad18cb4d8.png
+assets\Dices\Mimic\Level 1\7bbda1dc-dd18-4e94-be65-bda9515a6ae4.png
+assets\Dices\Mimic\Level 1\7eae0483-dc84-4b7e-8e32-e37635def682.png
+assets\Dices\Mimic\Level 1\9d2ee3e1-9b2f-49d6-9dd3-ab4a24f92c58.png
+assets\Dices\Mimic\Level 1\b1faadd1-948c-47a7-96bf-0876aef7d200.png
+assets\Dices\Mimic\Level 1\b286148f-d599-4925-82e0-aff283299616.png
+assets\Dices\Mimic\Level 1\b2d11668-929e-4764-9f6a-c03cbd49972f.png
+assets\Dices\Mimic\Level 1\b9114e27-15fd-406d-b2cc-eacb06941441.png
+assets\Dices\Mimic\Level 1\bab4cba1-36b5-40f4-98fc-649fd7d6afac.png
+assets\Dices\Mimic\Level 1\c08005ba-861a-4fc3-8347-20d7f9c4dd41.png
+assets\Dices\Mimic\Level 1\cac9c760-7bd5-46fa-b501-b005295e1cc1.png
+assets\Dices\Mimic\Level 1\e2a96db6-da13-4a15-b2cd-967c8133653f.png
+assets\Dices\Mimic\Level 1\e9ffbb5a-fa9c-4628-abbd-81d9379bc24c.png
+assets\Dices\Mimic\Level 1\f4f00d9d-472d-4f91-b32f-6397b9f27328.png
+assets\Dices\Mimic\Level 1\fe16da28-4e95-4b1b-a282-7b686e2766dc.png
+assets\Dices\Mimic\Level 2\0548bdac-83dc-489f-a403-ab90b8410893.png
+assets\Dices\Mimic\Level 2\06d4bb50-e622-41a7-bda9-c284a29be0a2.png
+assets\Dices\Mimic\Level 2\59ff9e93-c48c-431f-8be6-96b83b238edf.png
+assets\Dices\Mimic\Level 2\70904e2e-2877-4464-bcd3-c7b0501d4912.png
+assets\Dices\Mimic\Level 2\a2ff8a7c-3e3e-4831-b30c-492be2af7397.png
+assets\Dices\Mimic\Level 2\a461a203-3dc0-47cf-944f-1ecfd2830364.png
+assets\Dices\Mimic\Level 2\a789d56f-be02-425f-883c-a9e606e443ed.png
+assets\Dices\Mimic\Level 2\c02a52bd-b628-4cce-87d3-036dd79d4acf.png
+assets\Dices\Mimic\Level 2\ca81626d-0ac0-4e43-86ed-ee0ebc65608e.png
+assets\Dices\Mimic\Level 2\d1012f8a-5d95-4ce3-a391-d5d212572abb.png
+assets\Dices\Mimic\Level 2\e4179793-1725-4fb8-9788-28773e11b73e.png
+assets\Dices\Mimic\Level 2\e662831e-0ab5-4f82-b6c9-e5172bf25d30.png
+assets\Dices\Mimic\Level 2\eb8dfd5e-00bd-4064-bdda-0fa5376af26b.png
+assets\Dices\Mimic\Level 2\f390090c-138f-4946-8ba4-a3279a8c3c76.png
+assets\Dices\Mimic\Level 3\0b331d4b-af2d-4ee1-8ad7-50750ca51fc4.png
+assets\Dices\Mimic\Level 3\0c431ed1-836e-49cd-9258-292fb7d272c7.png
+assets\Dices\Mimic\Level 3\1600106d-831e-4291-ba07-1282134a2bb4.png
+assets\Dices\Mimic\Level 3\18554872-2288-4550-8cce-659d3200e117.png
+assets\Dices\Mimic\Level 3\33a2c3e0-3d8e-4652-89c3-e94062da26cc.png
+assets\Dices\Mimic\Level 3\3781a75c-f6e9-4e0f-bf68-b7f261093eca.png
+assets\Dices\Mimic\Level 3\3b1559e0-4a46-4c44-a162-b4baaeaced6a.png
+assets\Dices\Mimic\Level 3\42f76dc5-1ae8-4b51-91ca-8b22985b7499.png
+assets\Dices\Mimic\Level 3\43519b20-a3a4-4bd7-8532-4075cff6a327.png
+assets\Dices\Mimic\Level 3\5398310e-2e8a-42cc-bf43-e62cb7dbca79.png
+assets\Dices\Mimic\Level 3\8a907550-f566-4b92-a9d5-7e4ee62dbb63.png
+assets\Dices\Mimic\Level 3\9631e696-6602-478e-9c39-a76c908d65dd.png
+assets\Dices\Mimic\Level 3\a6f4c028-7baa-4b85-ae68-c7de15cca20a.png
+assets\Dices\Mimic\Level 3\c586d20d-0812-42a1-9e02-f61d05b0c037.png
+assets\Dices\Mimic\Level 3\cb15cfde-924c-4959-b3cc-4958ecd5c6b3.png
+assets\Dices\Mimic\Level 3\cbcb0405-b3d3-4bfa-8006-d4356e78b933.png
+assets\Dices\Mimic\Level 3\d9090ef8-164f-471b-a6c2-fa5cd266f5ad.png
+assets\Dices\Mimic\Level 3\de90b1e9-65a2-4399-8603-7c366798ab21.png
+assets\Dices\Mimic\Level 3\e0c7dc0a-7708-4779-8a77-1f634e0d880c.png
+assets\Dices\Mimic\Level 4\030f80f1-c12f-4869-9a63-da6ab74c1cec.png
+assets\Dices\Mimic\Level 4\0b4a97d6-74be-4b10-93b1-be671cfb7fe5.png
+assets\Dices\Mimic\Level 4\157701ff-2532-47bb-8c17-7bf4e52592a7.png
+assets\Dices\Mimic\Level 4\19ccda0a-71d4-49b8-8471-18a83bc6379f.png
+assets\Dices\Mimic\Level 4\32fa6683-75a0-434b-b2f7-ab6efaff737c.png
+assets\Dices\Mimic\Level 4\40fbcaa0-b8ad-4fc5-8ebf-e6a89667231d.png
+assets\Dices\Mimic\Level 4\466dce45-4eec-400c-b331-46dac2e3df43.png
+assets\Dices\Mimic\Level 4\46745296-abab-424b-b7b3-d7b763ac90c1.png
+assets\Dices\Mimic\Level 4\471c66f8-840c-448e-b12d-1e5be31e2db5.png
+assets\Dices\Mimic\Level 4\4aa26b52-3603-4f8a-9781-cbe7c29ed161.png
+assets\Dices\Mimic\Level 4\64a6082c-96bb-4f7d-b2db-6edd913c6263.png
+assets\Dices\Mimic\Level 4\6bd1f3a7-98f5-451b-b271-d5734ebc68c8.png
+assets\Dices\Mimic\Level 4\6c753072-06fc-4b77-a429-ba1e5d5df05f.png
+assets\Dices\Mimic\Level 4\7a144909-1cbd-4aac-a04c-caf907e54c79.png
+assets\Dices\Mimic\Level 4\a8702740-fd06-4008-a547-fcf4bbc0a4dc.png
+assets\Dices\Mimic\Level 4\ada79dc1-ab88-4d84-a2e3-e76f5b266413.png
+assets\Dices\Mimic\Level 4\b33ed36e-63bd-4942-af27-2e16136e988c.png
+assets\Dices\Mimic\Level 4\c5e5911f-bbeb-4ae7-a9fd-0c63c763372c.png
+assets\Dices\Mimic\Level 4\ceb28aaf-14bb-490c-8b38-be45ec5c0f36.png
+assets\Dices\Mimic\Level 4\ceb47b1e-0c68-4fca-a1d4-12c0b4939dbf.png
+assets\Dices\Mimic\Level 4\d3b59c57-1cd0-4a2d-bb00-904a80926f0a.png
+assets\Dices\Mimic\Level 4\d93331ed-6210-49ec-bea5-f5ad610a9533.png
+assets\Dices\Mimic\Level 4\dfbfcc6c-5663-45cc-936a-a78886956c74.png
+assets\Dices\Mimic\Level 4\e3b0320d-05ac-426f-9578-eb7540c1a728.png
+assets\Dices\Mimic\Level 4\e4890656-de4e-4ae8-a921-e7578cc175e9.png
+assets\Dices\Mimic\Level 5\23b88260-a9a8-40fc-9962-079b6577c733.png
+assets\Dices\Mimic\Level 5\67acde44-85a4-4256-8cdf-7bcb8e80ae1e.png
+assets\Dices\Mimic\Level 5\8d8cc7f5-076c-4054-ba7b-985531bec0cd.png
+assets\Dices\Mimic\Level 5\ba19f6a8-3e11-4cd6-be21-d6a104e4ec62.png
+assets\Dices\Mimic\Level 6\7d19556e-eb4e-4e15-bd77-f36bc5afff33.png
+assets\Dices\Mine\Level 1\0486fe5e-70e7-432e-9e18-d8a73a5d1638.png
+assets\Dices\Mine\Level 1\19fd8b94-370d-459d-aa60-f193d5078e75.png
+assets\Dices\Mine\Level 1\1f2f3f8b-20f6-4773-9002-37eb51e1bbcc.png
+assets\Dices\Mine\Level 1\1fb31e2d-ee1b-46b2-891f-24f08e90f3b6.png
+assets\Dices\Mine\Level 1\2d601b64-ea7a-4211-85e2-a0675f3b78ad.png
+assets\Dices\Mine\Level 1\30bf9749-aed0-4280-8344-2a83efdee75f.png
+assets\Dices\Mine\Level 1\38ca147b-caa4-4d11-b2ee-2356ee3fefa2.png
+assets\Dices\Mine\Level 1\43cc0f9f-d83e-4a4b-b966-2dd27f2708ff.png
+assets\Dices\Mine\Level 1\5886f808-4da8-4e67-a2d4-687e2ca23b64.png
+assets\Dices\Mine\Level 1\5a01b7db-1b9c-4b13-90db-5d5276856459.png
+assets\Dices\Mine\Level 1\5d7c5ebd-763e-4a5c-91ef-f51e36454987.png
+assets\Dices\Mine\Level 1\60ae3f10-67c6-4b7e-a31a-3be2e009c098.png
+assets\Dices\Mine\Level 1\6a688c4c-d86f-4bf3-b683-d8c106ad3f06.png
+assets\Dices\Mine\Level 1\6a70682e-aec0-41d0-b368-af660e250d36.png
+assets\Dices\Mine\Level 1\75f9a8f5-14bf-4d0d-80e7-f3f182d60de7.png
+assets\Dices\Mine\Level 1\87204b89-e549-4b3a-8c3b-8ad4cfedf461.png
+assets\Dices\Mine\Level 1\8ebb08aa-16eb-4eb4-8c8f-899d7418db6d.png
+assets\Dices\Mine\Level 1\ad44ea7d-a386-456e-986d-a33a441ee4bb.png
+assets\Dices\Mine\Level 1\c62d7167-7548-46af-87d4-f0694ad86cf5.png
+assets\Dices\Mine\Level 1\c6df8edd-4080-4e78-a413-0cb4cbec46a1.png
+assets\Dices\Mine\Level 1\cac9505a-9b2f-43c7-8c86-4149d2d397f1.png
+assets\Dices\Mine\Level 1\d79bf63e-a587-446d-9cfb-bccf8527ea02.png
+assets\Dices\Mine\Level 1\d92bb882-acb2-4687-813d-f41475e352f2.png
+assets\Dices\Mine\Level 1\db440912-b88b-4269-a16b-0b55d64cb19d.png
+assets\Dices\Mine\Level 1\e2b4cf48-e18e-4444-b94a-63bba62ab9c7.png
+assets\Dices\Mine\Level 1\e8fb7c73-76ee-4a1c-af0c-6ee155101d97.png
+assets\Dices\Mine\Level 2\0716e912-7d2a-4870-a3a1-b298e191eda4.png
+assets\Dices\Mine\Level 2\0a357de1-9685-477a-a383-affdcfb66922.png
+assets\Dices\Mine\Level 2\1dbca5cd-329e-4aa7-942a-2721bd7a6679.png
+assets\Dices\Mine\Level 2\1f1369b4-25f9-41f0-ae73-8e20485d8f46.png
+assets\Dices\Mine\Level 2\247e7d94-26be-407e-b14d-4356cb904f2a.png
+assets\Dices\Mine\Level 2\29eb509e-c98f-4b42-a6da-63e504481632.png
+assets\Dices\Mine\Level 2\2dd83ded-2899-4139-9dfd-b0e38b81a0aa.png
+assets\Dices\Mine\Level 2\310c3d9e-8009-4f8a-b750-e4a640529723.png
+assets\Dices\Mine\Level 2\3ac485d1-b026-4c26-8ae4-f424e98da5f1.png
+assets\Dices\Mine\Level 2\5332ec83-2de8-4a74-9ff5-cab9c96b90f8.png
+assets\Dices\Mine\Level 2\569468f8-3c18-4c78-bd95-9783fae79d37.png
+assets\Dices\Mine\Level 2\5ebdeb24-b4e8-4e0a-b2df-7633b8cfe01e.png
+assets\Dices\Mine\Level 2\bbaf430a-239f-430e-9bf3-df758d7895e4.png
+assets\Dices\Mine\Level 2\d56ea85a-a6b5-41f4-8a2d-61ebf482b3eb.png
+assets\Dices\Mine\Level 2\d9f8e42c-0816-4da8-8eef-03999ad073ae.png
+assets\Dices\Mine\Level 2\ebbae9d2-8cbc-41c9-93eb-9c739e956a4c.png
+assets\Dices\Mine\Level 2\fa030cf7-b7d9-4ad2-b4f7-0e2f1e50694c.png
+assets\Dices\Mine\Level 2\fc3264e7-857d-4825-8b78-c91e4ba62342.png
+assets\Dices\Mine\Level 2\fc92df78-1ae2-4767-81b6-d4ca83020e2e.png
+assets\Dices\Mine\Level 2\ff9bc3c1-e98c-4ffc-87af-8cf0318b39f9.png
+assets\Dices\Mine\Level 3\0bc337ff-6af2-4968-93d1-817156d18e56.png
+assets\Dices\Mine\Level 3\0c269f8f-3856-4eea-b875-41aba4e945cd.png
+assets\Dices\Mine\Level 3\1a3b5ef4-bde6-49e2-bb00-c138449f203e.png
+assets\Dices\Mine\Level 3\2831be51-d470-47be-af93-265f2d8efee6.png
+assets\Dices\Mine\Level 3\2f5cab03-3b5c-4510-813c-80858bff6f7b.png
+assets\Dices\Mine\Level 3\45a771f2-d156-4102-873f-784ea69e2d83.png
+assets\Dices\Mine\Level 3\48620f17-822b-4bc5-bcf7-96109358e164.png
+assets\Dices\Mine\Level 3\501c9e5c-c7af-442e-b621-8a23774da7e4.png
+assets\Dices\Mine\Level 3\6090d99a-e8f0-4f8d-949e-b8c686121648.png
+assets\Dices\Mine\Level 3\77479987-4712-4b67-a21b-e3b87c9177dc.png
+assets\Dices\Mine\Level 3\7a184138-58a5-42e5-8c8c-169f3580a2d1.png
+assets\Dices\Mine\Level 3\8d374329-6b61-4b7a-bb0e-7d082f4cdc18.png
+assets\Dices\Mine\Level 3\92cee9a3-d264-4838-a84a-af7aa8a73bd6.png
+assets\Dices\Mine\Level 3\9341a36e-e1df-43b0-a9b1-10b78bbd1518.png
+assets\Dices\Mine\Level 3\cad556bd-6b6d-492d-8d6a-d94ae313c576.png
+assets\Dices\Mine\Level 3\d970ab4d-5c23-4ec4-addd-40a3f088007b.png
+assets\Dices\Mine\Level 3\fd3a3814-4017-4b02-8572-2e33853f9826.png
+assets\Dices\Mine\Level 4\0c2c1b0d-c8a6-447f-b9ef-e1093f8a4bf5.png
+assets\Dices\Mine\Level 4\11dcf03b-f342-4985-9baa-8e9ba8279a22.png
+assets\Dices\Mine\Level 4\1699ed00-867c-4b58-aeaa-79464c5f1dfa.png
+assets\Dices\Mine\Level 4\1f0ef818-3c69-4732-b93d-f1becd972ac0.png
+assets\Dices\Mine\Level 4\222ff3e8-9ecb-49af-bf71-9bbd251fc0a7.png
+assets\Dices\Mine\Level 4\26ac8c4f-9455-4f4a-85e9-fed21cc7368d.png
+assets\Dices\Mine\Level 4\29128302-8fac-4151-8788-d159cd9b8ba3.png
+assets\Dices\Mine\Level 4\3016cc48-0ca4-4c63-b7ae-828a7da2b99f.png
+assets\Dices\Mine\Level 4\353445ec-4bba-42d2-8741-744097b74f24.png
+assets\Dices\Mine\Level 4\3c699b7a-d680-4703-ad7a-4b04f33dcc48.png
+assets\Dices\Mine\Level 4\42ad8a24-4006-44b2-8df2-ed68e14c4c34.png
+assets\Dices\Mine\Level 4\4577689c-1b35-43b4-9f88-51854c458e28.png
+assets\Dices\Mine\Level 4\47651af6-fc57-40ce-ac01-164d7e496af3.png
+assets\Dices\Mine\Level 4\4b935900-b42b-4f4c-b57b-50b06291c3e4.png
+assets\Dices\Mine\Level 4\535cafd1-a8a5-4f02-b615-d990b0600675.png
+assets\Dices\Mine\Level 4\560edad2-3b76-48c4-80d1-c097489ca5f8.png
+assets\Dices\Mine\Level 4\656bf68e-8094-423d-80b4-de6fae80a21b.png
+assets\Dices\Mine\Level 4\6d9c696d-18f5-44d8-8b8e-1a601479693c.png
+assets\Dices\Mine\Level 4\6fa24bf9-9ea7-4edd-8747-7dd99d8d0d03.png
+assets\Dices\Mine\Level 4\7bed4055-5ba7-49f2-94b8-36e299cc2f60.png
+assets\Dices\Mine\Level 4\7c09e695-a88f-4b63-9517-78be05291309.png
+assets\Dices\Mine\Level 4\86a09f76-75a2-425f-b405-a51987ce253b.png
+assets\Dices\Mine\Level 4\8a12ff7e-57b8-4c3e-be1c-569face92c8c.png
+assets\Dices\Mine\Level 4\93a3c013-8068-4b1f-91c4-df17c2b2f84a.png
+assets\Dices\Mine\Level 4\96b75be1-95df-418a-abba-53043c11af82.png
+assets\Dices\Mine\Level 4\a63b6422-e2e2-4365-b68f-17eb6d92743b.png
+assets\Dices\Mine\Level 4\b0f0dd51-a6a3-490b-a6be-74ed4027dfaf.png
+assets\Dices\Mine\Level 4\b20c8850-52a8-4ef0-8793-4c22f77ede71.png
+assets\Dices\Mine\Level 4\b965be71-f940-46a8-ab8d-dd894865ff73.png
+assets\Dices\Mine\Level 4\bbc5fdfe-20f6-47bd-8eb0-3f8f48738e2c.png
+assets\Dices\Mine\Level 4\c98dcfad-3b21-4064-84cd-6d4b7ed7beeb.png
+assets\Dices\Mine\Level 4\cf4c23cf-a818-4cc2-881d-296e8fa96275.png
+assets\Dices\Mine\Level 4\d13d5ab2-82c0-461b-8f68-87d0355f7910.png
+assets\Dices\Mine\Level 4\d702b538-5af6-492e-a493-0fd0ef15f447.png
+assets\Dices\Mine\Level 4\e233bc3f-ea36-4e13-b042-eb35618143ac.png
+assets\Dices\Mine\Level 4\ebb0e322-0d2d-4e00-9b3f-169afdbcb3cb.png
+assets\Dices\Mine\Level 4\f36cd551-5a9e-4d6a-983f-027f72681abf.png
+assets\Dices\Mine\Level 4\f43ae6a2-175f-4c5c-bce7-3678a94edab5.png
+assets\Dices\Mine\Level 4\fb63680c-f827-41f8-b76f-5dda6dca63b4.png
+assets\Dices\Mine\Level 5\06ecabd6-9bfc-4819-88e3-5bf98cd21455.png
+assets\Dices\Mine\Level 5\64cff74f-919e-486f-9abd-1e5edfa0af5a.png
+assets\Dices\Mine\Level 5\694fa432-b3ab-47fa-957f-4e01178e5e51.png
+assets\Dices\Mine\Level 5\9ec83bd6-997c-430a-aae4-2960930015db.png
+assets\Dices\Mine\Level 5\eb786827-dbb0-4274-a1a7-20491233dad0.png
+assets\Dices\Mine\Level 5\ec847080-86d4-4580-9f36-cfcd86045766.png
+assets\Dices\Mine\Level 6\005381a4-c9ba-4596-b716-02004420198f.png
+assets\Dices\Mine\Level 6\0bd14213-c240-42e9-bff1-2e296595c1cb.png
+assets\Dices\Mine\Level 6\1a8edb35-27b2-46ab-9170-21b0560fda49.png
+assets\Dices\Mine\Level 6\86e04d40-ebf3-4bf0-b041-a14579857d06.png
+assets\Dices\Mine\Level 6\994c8a58-3fda-4780-9cd6-fa3636d45c31.png
+assets\Dices\Mine\Level 6\a2125c31-7b87-4278-895e-6c370cda2074.png
