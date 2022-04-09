@@ -39,7 +39,8 @@ def run():
         screenshot = game.process_frame(screenshot)
         # cv.imshow('Computer Vision', screenshot)
 
-        time.sleep(10)
+        # time.sleep(10)
+        break
 
         current_time = out.print_out(current_time, game.board)
 

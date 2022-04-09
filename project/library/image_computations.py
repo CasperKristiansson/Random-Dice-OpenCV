@@ -2,6 +2,8 @@ import uuid
 import cv2 as cv
 import itertools
 
+cascade_model = cv.CascadeClassifier('assets\Model\Assassin_Strategy\Assassin\cascade\cascade.xml')
+
 def process_dice_board(image):
     width, height, _ = image.shape
 
@@ -37,8 +39,20 @@ def process_dice_board(image):
             int((i * width_board / rows + width_board / rows / 2) + width * 0.555),
         ))
 
+    # for square in squares:
+    #     cv.imwrite(f'assets\\Raw Data\\{uuid.uuid4()}.png', square)
+
     for square in squares:
-        cv.imwrite(f'assets\\Raw Data\\{uuid.uuid4()}.png', square)
+        rectangles = cascade_model.detectMultiScale(square)
+        area = 0
+        for rectangle in rectangles:
+            x, y, w, h = rectangle
+            area += (w - x) * (h - y)
+
+        if area >= 2500:
+            break
+        
+        print(area)
 
     return squares, squares_coordinates
 
